@@ -1,0 +1,6 @@
+{
+  "name": "IronLog — 6-Day Routine Tracker",
+  "description": "Mobile-first 6-day gym workout tracker with smart double progression, rest timers, PR tracking, and local JSON backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
